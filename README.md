@@ -1,2 +1,2 @@
 <h2>SimpleLogin</h2>
-<p>Simple kogin apps. Write using AndoidStudio with MVP Pattern.</p>
+<p>Simple login apps. Write using AndoidStudio with MVP Patterns.</p>
